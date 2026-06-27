@@ -28,22 +28,22 @@ Screenshots :
 Login Page :
 
 
-![Login](Login.png)
+![Login](screenshots/Login.png)
 
 Dashboard :
 
 
-![Dashboard](dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 Quiz Page :
 
 
-![Quiz](quiz.png)
+![Quiz](screenshots/quiz.png)
 
 Result Page :
 
 
-![Result](result.png)
+![Result](screenshots/result.png)
 
 Demo Video :
 
